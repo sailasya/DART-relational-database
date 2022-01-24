@@ -22,3 +22,9 @@ The information of which bus goes by which route and at what time is all stored 
 
 
 # The Repository Contains the following parts for the project:
+
+1. Relational schema
+2. Table creation queries
+3. Sample view creation queries
+4. SQL queries
+5. Report
